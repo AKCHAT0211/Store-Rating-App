@@ -24,12 +24,12 @@ An interactive, responsive Admin Dashboard built with **React.js** and **Tailwin
    
 
 2. **Install dependencies:**
-   \`\`\`bash
+   \`\`\
    npm install
    \`\`\`
 
 3. **Run the development server:**
-   \`\`\`bash
+   \`\`\`
    npm run dev
    \`\`\`
 
@@ -62,18 +62,25 @@ When changing your password, the following rules apply:
 ## ✏️ Customization Tips
 
 - You can extend role-based access by adding auth checks in \`Navbar\` or conditionally rendering forms/tables.
-- Add backend integration by replacing mock \`data.js\` and using \`axios\`/\`fetch\` with an API.
+- 
 - To add persistent auth, include JWT-based login and role checks.
 
 ---
 
-## 🛡️ License
 
-This project is open-source and available under the [MIT License](LICENSE).
+## 🙌 Acknowledgements
 
----
+Thanks to the amazing open-source community and maintainers of the following technologies that made this project possible:
+
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Express.js](https://expressjs.com/)
+- [MySQL](https://www.mysql.com/)
+- [Vite](https://vitejs.dev/)
+- [JWT](https://jwt.io/)
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
 
 ## 🙋‍♂️ Author
 
 **Your Name**  
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-name)
+[GitHub](https://github.com/AKCHAT0211) | [LinkedIn](https://www.linkedin.com/in/akchat-jain-512130234/)
